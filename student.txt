@@ -1,0 +1,6 @@
+Name : Mehedi Hasan Jahid
+Age : 24
+Height : 124cm
+Weight : 70kg
+Village: Noakhali
+Language: Bangla, English, Hindi
